@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript-react-query
 
+## 2.0.0
+
+### Major Changes
+
+- 70628c87: Add support for useTypeImports when using fetcher: graphql-request
+
 ## 1.2.0
 
 ### Minor Changes
